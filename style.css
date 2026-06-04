@@ -1,16 +1,12 @@
 .title-header {
     background:  #011902; 
-    height: 200;
+    max-height: 200;
+    max-width: 300;
 
 }
-/*h1 {
-    color:white;
-    justify-content: center;
-    text-align: center;
-}*/
 .titulo{
   color:#ffffff;
   justify-content: center;
-  text-align: center;
+  text-align: right;
   margin: 30px 100px 100px -250px;
 }
