@@ -2,8 +2,14 @@ header {
     background:  #011902; 
     height: auto;
 }
-h1 {
+/*h1 {
     color:white;
     justify-content: center;
     text-align: center;
+}*/
+.titulo{
+  color:#ffffff;
+  justify-content: center;
+text-align: center;
+
 }
