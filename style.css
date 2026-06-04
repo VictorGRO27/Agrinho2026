@@ -6,5 +6,6 @@ header {
     width: 5000;
 }
 .titulo {
-    color:white
+    color:white;
+    justify-content: center;
 }
