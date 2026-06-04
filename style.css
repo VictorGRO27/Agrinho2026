@@ -2,7 +2,7 @@ header {
     background:  #011902; 
     height: auto;
 }
-.titulo {
+h1 {
     color:white;
     justify-content: center;
     text-align: center;
