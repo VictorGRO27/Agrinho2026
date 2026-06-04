@@ -1,6 +1,6 @@
 header {
     background-color:  #011902;
     max-width: 100;
-    border-image-width: 100;
-    margin: 200;
+    height: auto;
+    width: 500;
 }
