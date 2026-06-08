@@ -41,7 +41,9 @@ body {
 .title-header nav ul li a:hover {
   color: #BAF5A3; /* Cor ao passar o mouse */
 }
-.inicio: hover {}
+.inicio {
+	
+}
 main {
 	font-weight:bold;
 	color:#011902;
