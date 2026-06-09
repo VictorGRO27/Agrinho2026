@@ -26,7 +26,7 @@ function gerarArquivoTxt() {
     document.body.removeChild(link);
 	URL.revokeObjectURL(url);
 	
-	} else {alert('Preencha o formulario completo!!!');} 
+	} else {alert('O Formulário está incompleto!');} 
 
   
     
