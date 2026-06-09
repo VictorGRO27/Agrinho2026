@@ -51,6 +51,16 @@ body {
 	word-spacing: 10px;
     padding: center;
 }
+.titulo2 {
+    font-weight:bold;
+	justify-content:auto;
+	color: #011902;
+	font-size:28px;
+	text-align:center;
+	margin-right:20%;
+	word-spacing: 10px;
+    padding: center;
+}
 footer {
 	position: absolute;
 	left: 0;
