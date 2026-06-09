@@ -51,6 +51,16 @@ body {
 	word-spacing: 10px;
     padding: center;
 }
+.texto1 {
+    font-weight:bold;
+	justify-content:auto;
+	color: #011902;
+	font-size:25px;
+	text-align:justify;
+	margin-right:20%;
+	word-spacing: 10px;
+    padding: right;
+}
 .titulo2 {
     font-weight:bold;
 	justify-content:auto;
@@ -60,6 +70,16 @@ body {
 	margin-right:20%;
 	word-spacing: 10px;
     padding: center;
+}
+.texto2 {
+    font-weight:bold;
+	justify-content:auto;
+	color: #011902;
+	font-size:25px;
+	text-align:justify;
+	margin-right:20%;
+	word-spacing: 10px;
+    padding: right;
 }
 footer {
 	position: absolute;
