@@ -53,7 +53,7 @@ label {
   float: right;
   margin-left: 100px; /* Evita que o texto encoste na imagem */
   width: 300px; /* Ajuste o tamanho conforme necessário */
-  margin: -10.0px -60px 0px 50px;
+  margin: -10.0px -10px 0px 50px;
 }
 footer {
 	position: absolute;
