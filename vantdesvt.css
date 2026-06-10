@@ -73,6 +73,7 @@ main {
 }
 .vant {
 	font-weight:bold;
+  list-style: none;
 	justify-content:auto;
 	color: #011902;
 	font-size:25px;
@@ -95,6 +96,7 @@ main {
 }
 .desv {
 	font-weight:bold;
+  list-style: none;
 	justify-content:auto;
 	color: #011902;
 	font-size:25px;
