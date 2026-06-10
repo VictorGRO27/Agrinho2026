@@ -49,6 +49,12 @@ label {
 .botao {
   color:#011902
 }
+.imagem1 {
+  float: right;
+  margin-left: 100px; /* Evita que o texto encoste na imagem */
+  width: 600px; /* Ajuste o tamanho conforme necessário */
+  margin: -450px -600px 0px 50px;
+}
 footer {
 	position: absolute;
 	left: 0;
