@@ -52,7 +52,7 @@ label {
 .imagem1 {
   float: right;
   margin-left: 100px; /* Evita que o texto encoste na imagem */
-  width: 300px; /* Ajuste o tamanho conforme necessário */
+  width: 300px; /* Ajustar o tamanho*/
   margin: -10.0px 100px 0px 50px;
 }
 footer {
