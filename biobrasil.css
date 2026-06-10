@@ -49,9 +49,9 @@ main {
 	padding-left:20px;
 	margin-right:40%;
 }
-.titulo{
+.titulo1{
 	font-weight:bold;
-	justify-content:center;
+	justify-content:auto;
 	color: #011902;
 	font-size:28px;
 	text-align:center;
