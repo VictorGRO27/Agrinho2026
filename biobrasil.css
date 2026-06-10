@@ -51,7 +51,7 @@ main {
 }
 .titulo{
 	font-weight:bold;
-	justify-content:auto;
+	justify-content:center;
 	color: #011902;
 	font-size:28px;
 	text-align:center;
