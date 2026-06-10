@@ -41,6 +41,14 @@ body {
 .title-header nav ul li a:hover {
   color: #BAF5A3; /* Cor ao passar o mouse */
 }
+main {
+	font-weight:bold;
+	color:#011902;
+	text-align: justify-left;
+	word-spacing: 5px;
+	padding-left:20px;
+	margin-right:40%;
+}
 .titulo1 {
     font-weight:bold;
 	justify-content:auto;
