@@ -41,6 +41,28 @@ body {
 .title-header nav ul li a:hover {
   color: #BAF5A3; /* Cor ao passar o mouse */
 }
+.titulo{
+	
+	font-weight:bold;
+	justify-content:auto;
+	color: #011902;
+	font-size:28px;
+	text-align:center;
+	margin-right:20%;
+	word-spacing: 10px;
+    padding: center;
+
+.combs {
+	font-weight:bold;
+	justify-content:auto;
+	color: #011902;
+	font-size:25px;
+	text-align:justify;
+	margin-right:20%;
+	word-spacing: 10px;
+    padding: right;
+	
+}
 
 footer {
 	position: absolute;
