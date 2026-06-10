@@ -41,7 +41,9 @@ body {
 .title-header nav ul li a:hover {
   color: #BAF5A3; /* Cor ao passar o mouse */
 }
-
+label {
+  color:#011902;
+}
 footer {
 	position: absolute;
 	left: 0;
