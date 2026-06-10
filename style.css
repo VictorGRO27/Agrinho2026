@@ -130,9 +130,9 @@ footer {
     padding: center;
 	
 }
-.imagem1 {
+.imagem1{
   float: right;
   margin-left: 100px; /* Evita que o texto encoste na imagem */
-  width: 600px; /* Ajustar o tamanho/
   margin: -350px -600px 0px 50px;
+  width: 600px;
 }
