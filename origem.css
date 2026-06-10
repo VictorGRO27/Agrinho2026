@@ -89,6 +89,26 @@ main {
 	word-spacing: 10px;
     padding: right;
 }
+.titulo3 {
+    font-weight:bold;
+	justify-content:auto;
+	color: #011902;
+	font-size:28px;
+	text-align:center;
+	margin-right:20%;
+	word-spacing: 10px;
+    padding: center;
+}
+.texto3 {
+    font-weight:bold;
+	justify-content:auto;
+	color: #011902;
+	font-size:25px;
+	text-align:justify;
+	margin-right:20%;
+	word-spacing: 10px;
+    padding: right;
+}
 footer {
 	position: absolute;
 	left: 0;
