@@ -43,6 +43,8 @@ body {
 }
 label {
   color:#011902;
+  font-weight: bold;
+  font-size:20px
 }
 footer {
 	position: absolute;
