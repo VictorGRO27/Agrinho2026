@@ -17,6 +17,7 @@ function gerarArquivoTxt() {
     const link = document.createElement("a");
     link.href = url;
     link.download = "dados_formulario.txt"; // Nome do arquivo .txt
+    alert('Obrigado pela sugestão')
 
       // 5. Simular o clique no link para baixar
    document.body.appendChild(link);
